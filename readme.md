@@ -22,11 +22,11 @@ Features (Work in Progress 🚧)
 	•	Multiplayer online version
 
 Tech Stack (for future digital versions)
-	•	🎯 Frontend: Flutter / React
-	•	⚙️ Backend: Laravel / Node.js
+	•	🎯 Frontend: Flutter
+	•	⚙️ Backend: Laravel 
 	•	🗄️ Database: PostgreSQL / Firebase
-	•	☁️ Hosting & APIs: AWS / Firebase
-	•	🎨 Design: Figma, Illustrator
+	•	☁️ Hosting & APIs: Microsoft Azure / Firebase
+	•	🎨 Design: Canva, Illustrator
 
 How to Contribute
 
